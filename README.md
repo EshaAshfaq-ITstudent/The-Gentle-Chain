@@ -21,6 +21,7 @@ Experiment with a block's data and observe how even a small change produces a co
 You can also **mine a neat hash** by searching for a nonce that produces a hash beginning with `0`.
 
 **Concepts:** Cryptographic hashing, avalanche effect, nonce, Proof of Work
+
 ![Meet a Block](./screenshots/meet.png)
 
 ---
@@ -32,6 +33,7 @@ Explore a chain of connected blocks where each block depends on the hash of the 
 Modify the data inside a block and watch the chain become invalid. Repair the links to restore its integrity.
 
 **Concepts:** Hash pointers, chain integrity, tamper detection, immutability
+
 ![Mend the Meadow Chain](./screenshots/mend.png)
 
 ---
@@ -43,6 +45,7 @@ Use a private key to create a digital signature represented as a **wax seal**.
 The interaction demonstrates how a transaction can be authenticated without exposing the private key itself.
 
 **Concepts:** Asymmetric cryptography, public/private keys, digital signatures
+
 ![Sign with a Secret](./screenshots/sign.png)
 
 ---
@@ -54,6 +57,7 @@ Pending transactions wait inside a visual **waiting basket**, representing the m
 Mine the next block and watch those transactions move from the pending pool into a newly created block.
 
 **Concepts:** Mempool, pending transactions, block construction, mining
+
 ![Mining](./screenshots/min.png)
 
 ---
@@ -63,6 +67,7 @@ Mine the next block and watch those transactions move from the pending pool into
 Interact with three independent nodes — `OAK`, `POND`, and `HILL` — and observe how their validation decisions affect the state of the network.
 
 **Concepts:** Distributed consensus, node agreement, majority-based validation
+
 ![vote](./screenshots/vote.png)
 
 
