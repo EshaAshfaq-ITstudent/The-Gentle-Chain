@@ -6,6 +6,8 @@
 
 Instead of presenting blockchain through complex dashboards, terminal-style interfaces, or crypto-heavy terminology, the project uses a **vintage botanical field-guide aesthetic** to make abstract technical concepts easier to explore and understand.
 
+![The Gentle Chain Preview](./screenshots/main.png)
+
 ---
 
 ## ✨ What You'll Learn
